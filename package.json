@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-ic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random string message IC",
   "main": "index.js",
   "scripts": {
