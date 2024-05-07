@@ -1,0 +1,28 @@
+{
+  "name": "random-str-msg-ic",
+  "version": "1.0.0",
+  "description": "Random string message IC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelCastro85/random-str-msg-ic.git"
+  },
+  "keywords": [],
+  "author": "Israel Castro <icastro@vivo.mx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsraelCastro85/random-str-msg-ic/issues"
+  },
+  "homepage": "https://github.com/IsraelCastro85/random-str-msg-ic#readme",
+  "bin": {
+    "random-str-msg-ic": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "random-str-msg-ic": "file:"
+  }
+}
